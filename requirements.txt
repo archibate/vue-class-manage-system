@@ -3,3 +3,4 @@ pymysql
 django-cors-headers
 django-rest-framework
 djangorestframework-jwt
+jinja2
